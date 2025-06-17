@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Gustlik i 40 bestyjoków Araberów	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Ślōnski roztomajtości do tych, co przajom ślōnskij godce!</description>
+	<lastBuildDate>Fri, 11 Dec 2020 13:56:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Autor: Inkszo		</title>
+		<link>./../index.html#comment-239</link>
+
+		<dc:creator><![CDATA[Inkszo]]></dc:creator>
+		<pubDate>Wed, 25 Oct 2017 04:11:27 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?p=2274#comment-239</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;./../index.html#comment-236&quot;&gt;przeca to jo !&lt;/a&gt;.
+
+Toć że sie tak dzioło! Sama prowda! ;)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="./../index.html#comment-236">przeca to jo !</a>.</p>
+<p>Toć że sie tak dzioło! Sama prowda! 😉</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: przeca to jo !		</title>
+		<link>./../index.html#comment-236</link>
+
+		<dc:creator><![CDATA[przeca to jo !]]></dc:creator>
+		<pubDate>Tue, 24 Oct 2017 22:10:45 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?p=2274#comment-236</guid>
+
+					<description><![CDATA[Gryfnie to lopisane.Jo wierza ze to richtyg sie tak dziolo !!!]]></description>
+			<content:encoded><![CDATA[<p>Gryfnie to lopisane.Jo wierza ze to richtyg sie tak dziolo !!!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

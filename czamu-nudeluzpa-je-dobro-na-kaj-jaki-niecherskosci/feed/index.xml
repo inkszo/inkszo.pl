@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Czamu nudeluzpa je dobro na kaj jaki niecherskości	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Ślōnski roztomajtości do tych, co przajom ślōnskij godce!</description>
+	<lastBuildDate>Tue, 03 Mar 2020 08:17:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Autor: Inkszo		</title>
+		<link>./../index.html#comment-264</link>
+
+		<dc:creator><![CDATA[Inkszo]]></dc:creator>
+		<pubDate>Sat, 27 Jan 2018 16:38:50 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?p=2673#comment-264</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;./../index.html#comment-262&quot;&gt;Bebok&lt;/a&gt;.
+
+Mosz recht, kurkuma dobro rzecz, dycki se sypna do ôbiadu. Yno w umiarze!]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="./../index.html#comment-262">Bebok</a>.</p>
+<p>Mosz recht, kurkuma dobro rzecz, dycki se sypna do ôbiadu. Yno w umiarze!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: Bebok		</title>
+		<link>./../index.html#comment-262</link>
+
+		<dc:creator><![CDATA[Bebok]]></dc:creator>
+		<pubDate>Sat, 27 Jan 2018 07:53:38 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?p=2673#comment-262</guid>
+
+					<description><![CDATA[Warto do nudelzupy dodać kurkumy - bydzie ganc żółciutko, no i fest zdrowo! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f603.png" alt="😃" class="wp-smiley" style="height: 1em; max-height: 1em;" />]]></description>
+			<content:encoded><![CDATA[<p>Warto do nudelzupy dodać kurkumy &#8211; bydzie ganc żółciutko, no i fest zdrowo! 😃</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

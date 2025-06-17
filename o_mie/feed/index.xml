@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: O mie	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Ślōnski roztomajtości do tych, co przajom ślōnskij godce!</description>
+	<lastBuildDate>Wed, 25 Oct 2017 04:41:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Autor: Inkszo		</title>
+		<link>./../index.html#comment-240</link>
+
+		<dc:creator><![CDATA[Inkszo]]></dc:creator>
+		<pubDate>Wed, 25 Oct 2017 04:41:05 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?page_id=2#comment-240</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;./../index.html#comment-238&quot;&gt;przeca to jo !&lt;/a&gt;.
+
+Oooo, Kanada! Pieronym piyknie tam musi być! Zocnie :)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="./../index.html#comment-238">przeca to jo !</a>.</p>
+<p>Oooo, Kanada! Pieronym piyknie tam musi być! Zocnie 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: przeca to jo !		</title>
+		<link>./../index.html#comment-238</link>
+
+		<dc:creator><![CDATA[przeca to jo !]]></dc:creator>
+		<pubDate>Tue, 24 Oct 2017 22:16:40 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?page_id=2#comment-238</guid>
+
+					<description><![CDATA[TY  mosz chyba myrle dzioucha.Ale to dobrze ze cie tak nosi,jo tyz mom ciynszko w doma wysiedziec.Laza duzo po gorach w Kanadzie. Pozdrowiom piyknie!]]></description>
+			<content:encoded><![CDATA[<p>TY  mosz chyba myrle dzioucha.Ale to dobrze ze cie tak nosi,jo tyz mom ciynszko w doma wysiedziec.Laza duzo po gorach w Kanadzie. Pozdrowiom piyknie!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: Inkszo		</title>
+		<link>./../index.html#comment-229</link>
+
+		<dc:creator><![CDATA[Inkszo]]></dc:creator>
+		<pubDate>Sat, 07 Oct 2017 17:47:11 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?page_id=2#comment-229</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;./../index.html#comment-228&quot;&gt;Adrian&lt;/a&gt;.
+
+Dziękuja! :)]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="./../index.html#comment-228">Adrian</a>.</p>
+<p>Dziękuja! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: Adrian		</title>
+		<link>./../index.html#comment-228</link>
+
+		<dc:creator><![CDATA[Adrian]]></dc:creator>
+		<pubDate>Sat, 07 Oct 2017 17:36:22 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?page_id=2#comment-228</guid>
+
+					<description><![CDATA[Richtich gryfno z ciebie frela. Pozdro z Siemianowic Śląskich.]]></description>
+			<content:encoded><![CDATA[<p>Richtich gryfno z ciebie frela. Pozdro z Siemianowic Śląskich.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Komentarze do: Co mo baba we kuchyni?	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Ślōnski roztomajtości do tych, co przajom ślōnskij godce!</description>
+	<lastBuildDate>Sun, 03 May 2020 09:10:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>
+		Autor: Inkszo		</title>
+		<link>./../index.html#comment-252</link>
+
+		<dc:creator><![CDATA[Inkszo]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2017 09:25:12 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?p=2416#comment-252</guid>
+
+					<description><![CDATA[W odpowiedzi do &lt;a href=&quot;./../index.html#comment-251&quot;&gt;i.&lt;/a&gt;.
+
+Terinka - gryfnie :) Przaja tymu!]]></description>
+			<content:encoded><![CDATA[<p>W odpowiedzi do <a href="./../index.html#comment-251">i.</a>.</p>
+<p>Terinka &#8211; gryfnie 🙂 Przaja tymu!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Autor: i.		</title>
+		<link>./../index.html#comment-251</link>
+
+		<dc:creator><![CDATA[i.]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2017 08:07:35 +0000</pubDate>
+		<guid isPermaLink="false">https://www.inkszo.pl/?p=2416#comment-251</guid>
+
+					<description><![CDATA[asjetki to u nos z czeska terinki]]></description>
+			<content:encoded><![CDATA[<p>asjetki to u nos z czeska terinki</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

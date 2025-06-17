@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Archiwa: Filmiki - Inkszo.pl</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Ślōnski roztomajtości do tych, co przajom ślōnskij godce!</description>
+	<lastBuildDate>Tue, 31 Jul 2018 13:34:12 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Paralotniowe spōminki z 2017</title>
+		<link>./../../../paralotniowe-spominki-z-2017/index.html</link>
+					<comments>./../../../paralotniowe-spominki-z-2017/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Inkszo]]></dc:creator>
+		<pubDate>Tue, 17 Jul 2018 05:50:42 +0000</pubDate>
+				<category><![CDATA[Filmiki]]></category>
+		<category><![CDATA[Paralotnie]]></category>
+		<category><![CDATA[Rajzy]]></category>
+		<guid isPermaLink="false">https://www.inkszo.pl/?p=3204</guid>
+
+					<description><![CDATA[<p>Trza prziznać, że mielimy ruła jak stary grynadier &#8211; pół roku zeszło na rychtowaniu filmiku z ôńskigo roku. Ale yntlich je<a href="./../../../paralotniowe-spominki-z-2017/index.html">...</a></p>
+<p>Artykuł <a href="./../../../paralotniowe-spominki-z-2017/index.html">Paralotniowe spōminki z 2017</a> pochodzi z serwisu <a href="./../../../index.html">Inkszo.pl</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Trza prziznać, że mielimy ruła jak stary grynadier &#8211; pół roku zeszło na rychtowaniu filmiku z ôńskigo roku. Ale yntlich je fertich! <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Zapraszōm do oglōndanio landszaftów z luftu &#8211; furgani było w Alpach, Pirenejach i Dolomitach.</p>
+<p>Pyrsk!</p>
+<p><iframe width="1096" height="617" src="https://www.youtube.com/embed/AeICvX4o9VI?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p>Artykuł <a href="./../../../paralotniowe-spominki-z-2017/index.html">Paralotniowe spōminki z 2017</a> pochodzi z serwisu <a href="./../../../index.html">Inkszo.pl</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../paralotniowe-spominki-z-2017/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
